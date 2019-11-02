@@ -1,2 +1,2 @@
 Learning Objectives.
-Adding a silly lecture.
+1. use GitHub.

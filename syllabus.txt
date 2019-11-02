@@ -1,2 +1,3 @@
 Learning Objectives.
-1. use GitHub.
+1. Use GitHub
+2. Use Git
